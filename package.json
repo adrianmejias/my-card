@@ -6,7 +6,7 @@
   "unpkg": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adrianmejias/adrianmejias.git"
+    "url": "https://github.com/adrianmejias/my-card.git"
   },
   "scripts": {
     "prepare": "node src/htmlify",
